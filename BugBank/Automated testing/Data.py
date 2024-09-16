@@ -1,0 +1,9 @@
+bug_bank_url = "https://bugbank.netlify.app/"
+email = "prueba@gmail.com"
+name = "Pedro Perez"
+password_client = "Ab123"
+confirm_password = "Ab123"
+account_number = '809'
+digit = '7'
+money = '500'
+description = 'Pagos'
